@@ -12,6 +12,8 @@
 - 💬 Ask me about **Kotlin**
 
 - 📫 How to reach me **greilyntejada03@gmail.com**
+  
+- ⚡ Fun fact **I'm friendly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
