@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Greilyn Polanco</h1>
-<h3 align="center">A passionate frontend developer from Dominican Republic</h3>
+<h3 align="center">A passionate frontend developer and A system engineering and computer science student from Dominican Republic,</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 
