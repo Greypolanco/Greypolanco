@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Libreria Polanco Web**
 
-- 🌱 I’m currently learning **JavaScript and Dart.**
+- 🌱 I’m currently learning **JavaScript and TypeScript.**
 
 - 💬 Ask me about **Kotlin**
 
